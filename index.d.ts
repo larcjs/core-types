@@ -23,6 +23,7 @@
 export * from './types/message.js';
 export * from './types/subscription.js';
 export * from './types/config.js';
+export * from './types/routing.js';
 
 // Re-export components
 export * from './components/pan-client.js';

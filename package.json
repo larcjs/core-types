@@ -1,6 +1,6 @@
 {
   "name": "@larcjs/core-types",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "TypeScript type definitions for @larcjs/core",
   "types": "index.d.ts",
   "type": "module",
@@ -19,6 +19,9 @@
     },
     "./types/config": {
       "types": "./types/config.d.ts"
+    },
+    "./types/routing": {
+      "types": "./types/routing.d.ts"
     },
     "./components/pan-client": {
       "types": "./components/pan-client.d.ts"
@@ -46,6 +49,7 @@
     "web-components",
     "message-bus",
     "pubsub",
+    "routing",
     "zero-build"
   ],
   "author": "LARC Contributors",
