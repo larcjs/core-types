@@ -34,7 +34,7 @@
     }
   },
   "peerDependencies": {
-    "@larcjs/core": "^1.0.0"
+    "@larcjs/core": "^1.1.0"
   },
   "peerDependenciesMeta": {
     "@larcjs/core": {
